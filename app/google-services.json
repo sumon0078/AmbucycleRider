@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "804091314436",
+    "firebase_url": "https://ambucycle6.firebaseio.com",
+    "project_id": "ambucycle6",
+    "storage_bucket": "ambucycle6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804091314436:android:2f624a6e53cc8852125051",
+        "android_client_info": {
+          "package_name": "com.arnab.ambucyclelast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804091314436-99f31rv9rqddhokpr05hr842inmietj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8BOkxGU8UjebkAHZPQxfQNkJAw4_2yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804091314436-99f31rv9rqddhokpr05hr842inmietj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804091314436:android:d1605d718957672b125051",
+        "android_client_info": {
+          "package_name": "com.arnab.ambucyclerider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804091314436-99f31rv9rqddhokpr05hr842inmietj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8BOkxGU8UjebkAHZPQxfQNkJAw4_2yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804091314436-99f31rv9rqddhokpr05hr842inmietj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
